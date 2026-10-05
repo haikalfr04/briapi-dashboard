@@ -1,0 +1,9 @@
+node_modules/
+dist/
+*.log
+
+# Jangan pernah commit file data partner ke repo (GitHub Pages bersifat publik).
+*.xlsx
+*.xls
+*.xlsm
+*.csv
